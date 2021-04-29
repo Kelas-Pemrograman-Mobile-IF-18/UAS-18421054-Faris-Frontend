@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\7ff1f81c658100b824765e06c939cde5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.HITGIF:TextFieldBoxes:1.4.5] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\980b6597be3499b4c008e185e62ea463\AndroidManifest.xml:2:1-9:12
+MERGED from [com.ornach.nobobutton:nobobutton:1.6] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\d5399c43626f2f7fce31a2957c6dd332\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\462d9580432ca45d6cf90491e69abde9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cb32add0510e07add326363cd8ce751f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a051cd684db737cd061c1c9ceb391ec0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\6c306675573bcca17fb1799099711d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\38d22272a28d78dd398f57cb05ffff4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a1f6b27028dbc39f04200e5f92f6bcf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\154524ac374162d86a2882782c054646\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e96858425c0e911efdc923386c67987c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\5cd7fa0ede936080fdb9ef03f65db909\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cadfd1203e1382fbf38ae57e69378ae8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\de97505641de4698e1ae2bd988d9b057\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\208bbeec5230a4b40c208e560b6ef375\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ac32082576fa317f06a641a2eb1f43ec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\066d7fe0a43595cf380583980f120d7a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e9dd216388714e8c82cbab7d1c1b2369\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\695c0e57dd3881c134717d8a1bfb639b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dcf52687667fad88cf96f2e9e7448d69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\3d82310b72845a93f7b7bd2894349d07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a997164bb8ed14ede64d93a8152a4a17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dfd5c8f6c5c2505f81e15e33e5d5c738\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\315e0d3e91d252a19b16b9f8a5b77665\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\aea5ef8b7bb6d3e17731c359ba75e71f\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\b59b46be033c0c762f62e3f5cbaba778\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\fc6a681f754e2442067ae453742dfd9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\54d6f031162b6ab955a10681826dba73\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\95db13bdf9bc670f2a7caff8940fed85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2ec71f09e2243067db2e6f036ba20c63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\68788fef153dd2c2c4d7e8d8b421e5e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\1e9f355549c66e322183c94bfd9d7e88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ef4be5c6c89259932b9dffbdd12e66c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2d1630209b105121d34ce1492e48952b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\33adb4c09f2db72c2493303cc834e99a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\7ff1f81c658100b824765e06c939cde5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\7ff1f81c658100b824765e06c939cde5\AndroidManifest.xml:9:5-20
+MERGED from [com.ornach.nobobutton:nobobutton:1.6] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\d5399c43626f2f7fce31a2957c6dd332\AndroidManifest.xml:11:5-15:19
+MERGED from [com.ornach.nobobutton:nobobutton:1.6] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\d5399c43626f2f7fce31a2957c6dd332\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\462d9580432ca45d6cf90491e69abde9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\462d9580432ca45d6cf90491e69abde9\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\aea5ef8b7bb6d3e17731c359ba75e71f\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\aea5ef8b7bb6d3e17731c359ba75e71f\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.farisalchaula.myapplication.admin.HomeAdminActivity
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:12:19-58
+activity#com.farisalchaula.myapplication.users.RegisterActivity
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:13:19-57
+activity#com.farisalchaula.myapplication.MainActivity
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:14:9-50
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:14:19-47
+activity#com.farisalchaula.myapplication.users.LoginActivity
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:15:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\7ff1f81c658100b824765e06c939cde5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\7ff1f81c658100b824765e06c939cde5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.HITGIF:TextFieldBoxes:1.4.5] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\980b6597be3499b4c008e185e62ea463\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.HITGIF:TextFieldBoxes:1.4.5] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\980b6597be3499b4c008e185e62ea463\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ornach.nobobutton:nobobutton:1.6] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\d5399c43626f2f7fce31a2957c6dd332\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ornach.nobobutton:nobobutton:1.6] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\d5399c43626f2f7fce31a2957c6dd332\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\462d9580432ca45d6cf90491e69abde9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\462d9580432ca45d6cf90491e69abde9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cb32add0510e07add326363cd8ce751f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cb32add0510e07add326363cd8ce751f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a051cd684db737cd061c1c9ceb391ec0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a051cd684db737cd061c1c9ceb391ec0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\6c306675573bcca17fb1799099711d5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\6c306675573bcca17fb1799099711d5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\38d22272a28d78dd398f57cb05ffff4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\38d22272a28d78dd398f57cb05ffff4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a1f6b27028dbc39f04200e5f92f6bcf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a1f6b27028dbc39f04200e5f92f6bcf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\154524ac374162d86a2882782c054646\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\154524ac374162d86a2882782c054646\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e96858425c0e911efdc923386c67987c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e96858425c0e911efdc923386c67987c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\5cd7fa0ede936080fdb9ef03f65db909\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\5cd7fa0ede936080fdb9ef03f65db909\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cadfd1203e1382fbf38ae57e69378ae8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\cadfd1203e1382fbf38ae57e69378ae8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\de97505641de4698e1ae2bd988d9b057\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\de97505641de4698e1ae2bd988d9b057\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\208bbeec5230a4b40c208e560b6ef375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\208bbeec5230a4b40c208e560b6ef375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ac32082576fa317f06a641a2eb1f43ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ac32082576fa317f06a641a2eb1f43ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\066d7fe0a43595cf380583980f120d7a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\066d7fe0a43595cf380583980f120d7a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e9dd216388714e8c82cbab7d1c1b2369\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\e9dd216388714e8c82cbab7d1c1b2369\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\695c0e57dd3881c134717d8a1bfb639b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\695c0e57dd3881c134717d8a1bfb639b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dcf52687667fad88cf96f2e9e7448d69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dcf52687667fad88cf96f2e9e7448d69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\3d82310b72845a93f7b7bd2894349d07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\3d82310b72845a93f7b7bd2894349d07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a997164bb8ed14ede64d93a8152a4a17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\a997164bb8ed14ede64d93a8152a4a17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dfd5c8f6c5c2505f81e15e33e5d5c738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\dfd5c8f6c5c2505f81e15e33e5d5c738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\315e0d3e91d252a19b16b9f8a5b77665\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\315e0d3e91d252a19b16b9f8a5b77665\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\97e5e5adbfc8a59c8caa9a8301ff869e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\aea5ef8b7bb6d3e17731c359ba75e71f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\aea5ef8b7bb6d3e17731c359ba75e71f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\b59b46be033c0c762f62e3f5cbaba778\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\b59b46be033c0c762f62e3f5cbaba778\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\fc6a681f754e2442067ae453742dfd9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\fc6a681f754e2442067ae453742dfd9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\54d6f031162b6ab955a10681826dba73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\54d6f031162b6ab955a10681826dba73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\95db13bdf9bc670f2a7caff8940fed85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\95db13bdf9bc670f2a7caff8940fed85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2ec71f09e2243067db2e6f036ba20c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2ec71f09e2243067db2e6f036ba20c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\68788fef153dd2c2c4d7e8d8b421e5e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\68788fef153dd2c2c4d7e8d8b421e5e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\1e9f355549c66e322183c94bfd9d7e88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\1e9f355549c66e322183c94bfd9d7e88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ef4be5c6c89259932b9dffbdd12e66c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\ef4be5c6c89259932b9dffbdd12e66c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2d1630209b105121d34ce1492e48952b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\2d1630209b105121d34ce1492e48952b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\33adb4c09f2db72c2493303cc834e99a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faris\.gradle\caches\transforms-2\files-2.1\33adb4c09f2db72c2493303cc834e99a\AndroidManifest.xml:20:5-44
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		ADDED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\src\main\AndroidManifest.xml

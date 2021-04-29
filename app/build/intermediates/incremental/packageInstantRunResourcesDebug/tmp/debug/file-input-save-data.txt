@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 28 23:34:46 ICT 2021
+0.baseType=DIRECTORY
+0.base=D\:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=fonts/fontawesome-webfont.ttf
+0.set=ASSET
+count=1
