@@ -31,5 +31,11 @@ dependencies {
     implementation 'com.github.HITGIF:TextFieldBoxes:1.4.5'
     implementation "androidx.cardview:cardview:1.0.0"
     implementation 'com.ornach.nobobutton:nobobutton:1.6'
+    implementation 'com.android.volley:volley:1.1.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.marozzi.roundbutton:round-button:1.0.7'
+    implementation 'com.android.support:design:30.0.0'
+
+    implementation 'com.karumi:dexter:5.0.0'
 
 }

@@ -37,6 +37,8 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array payment
+array types
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -576,6 +578,31 @@ attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+attr rb_animation_alpha
+attr rb_animation_corner_radius
+attr rb_animation_custom_resource
+attr rb_animation_duration
+attr rb_animation_inner_resource
+attr rb_animation_inner_resource_color
+attr rb_animation_progress_color
+attr rb_animation_progress_padding
+attr rb_animation_progress_style
+attr rb_animation_progress_width
+attr rb_background_color
+attr rb_background_color_disabled
+attr rb_background_color_pressed
+attr rb_corner_color
+attr rb_corner_color_disabled
+attr rb_corner_color_pressed
+attr rb_corner_radius
+attr rb_corner_width
+attr rb_failure_color
+attr rb_failure_resource
+attr rb_success_color
+attr rb_success_resource
+attr rb_text_color
+attr rb_text_color_disabled
+attr rb_text_color_pressed
 attr region_heightLessThan
 attr region_heightMoreThan
 attr region_widthLessThan
@@ -1267,15 +1294,25 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dragon
 drawable exit
+drawable gmail1
+drawable ic_action_name
 drawable ic_clear_circle_black_24dp
+drawable ic_dropdown
+drawable ic_email
+drawable ic_image_default
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mic_black_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_nama_lengkap
+drawable ic_phone
+drawable ic_username
 drawable icon_login
+drawable logo
 drawable man
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
@@ -1365,6 +1402,7 @@ id all
 id always
 id animateToEnd
 id animateToStart
+id array_list
 id asConfigured
 id async
 id auto
@@ -1381,12 +1419,20 @@ id blocking
 id bold
 id bottom
 id bounce
+id btnCommission
 id btnLogin
 id btnLoginPage
 id btnRegister
 id btnRegisterPage
+id btnSend
+id btnTakeImage
+id btnUploadGambar
 id buttonPanel
 id cache_measures
+id cardDataArtist
+id cardExit
+id cardInputData
+id cardProfile
 id center
 id center_horizontal
 id center_vertical
@@ -1394,8 +1440,10 @@ id chain
 id chains
 id checkbox
 id checked
+id chkBg
 id chkTos
 id chronometer
+id circle
 id clip_horizontal
 id clip_vertical
 id collapseActionView
@@ -1423,6 +1471,7 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
+id dots
 id dragDown
 id dragEnd
 id dragLeft
@@ -1432,13 +1481,31 @@ id dragUp
 id easeIn
 id easeInOut
 id easeOut
+id editData
 id edit_query
+id edtArtistCode
+id edtArtistCode2
+id edtArtistCode3
+id edtArtistName
+id edtArtistName2
+id edtArtistName3
+id edtBg
 id edtEmail
+id edtEmail2
+id edtEmail3
 id edtPassword
 id edtUsername
+id edtWorkDays
+id edtWorkDays2
+id edtWorkDays3
+id edtWorkProgress
+id edtWorkProgress2
+id edtWorkProgress3
+id email
 id end
 id enterAlways
 id enterAlwaysCollapsed
+id exit
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1449,6 +1516,8 @@ id filled
 id fixed
 id flip
 id forever
+id gambar
+id gambarArtist
 id ghost_view
 id gone
 id graph
@@ -1456,6 +1525,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id hapusData
 id home
 id homeAsUp
 id honorRequest
@@ -1468,6 +1538,8 @@ id image
 id info
 id invisible
 id italic
+id itemReport
+id itemWishlist
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
@@ -1480,6 +1552,7 @@ id line3
 id linear
 id listMode
 id list_item
+id main_content
 id masked
 id message
 id middle
@@ -1488,8 +1561,11 @@ id motion_base
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id myCard
+id namaLengkap
 id navigation_header_container
 id never
+id noTelp
 id none
 id normal
 id notification_background
@@ -1547,6 +1623,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id simpanData
 id sin
 id smallLabel
 id snackbar_action
@@ -1556,6 +1633,8 @@ id snapMargins
 id spacer
 id spline
 id split_action_bar
+id sprComType
+id sprPayment
 id spread
 id spread_inside
 id square
@@ -1620,11 +1699,16 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtArtistName
+id txtEmail
+id txtWorkDays
+id txtWorkProgress
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
+id userName
 id view_offset_helper
 id visible
 id withText
@@ -1684,10 +1768,18 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_commission
+layout activity_data_artist
+layout activity_detail_artist
+layout activity_edit_artist_and_delete
 layout activity_home_admin
+layout activity_home_pembeli
+layout activity_input_data_artist
 layout activity_login
 layout activity_main
+layout activity_profile
 layout activity_register
+layout artist_line
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1717,6 +1809,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout text_field_boxes_layout
 layout text_field_boxes_layout_rtl
+menu popup_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -1963,6 +2056,7 @@ style Base_Widget_MaterialComponents_TextInputLayout
 style CardView
 style CardView_Dark
 style CardView_Light
+style Dexter_Internal_Theme_Transparent
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_MaterialComponents
@@ -2346,6 +2440,7 @@ styleable PopupWindowBackgroundState state_above_anchor
 styleable PropertySet android_visibility android_alpha layout_constraintTag motionProgress visibilityMode
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
 styleable RecyclerView android_orientation android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
+styleable RoundButton rb_animation_alpha rb_animation_corner_radius rb_animation_custom_resource rb_animation_duration rb_animation_inner_resource rb_animation_inner_resource_color rb_animation_progress_color rb_animation_progress_padding rb_animation_progress_style rb_animation_progress_width rb_background_color rb_background_color_disabled rb_background_color_pressed rb_corner_color rb_corner_color_disabled rb_corner_color_pressed rb_corner_radius rb_corner_width rb_failure_color rb_failure_resource rb_success_color rb_success_resource rb_text_color rb_text_color_disabled rb_text_color_pressed
 styleable ScrimInsetsFrameLayout insetForeground
 styleable ScrollingViewBehavior_Layout behavior_overlapTop
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon

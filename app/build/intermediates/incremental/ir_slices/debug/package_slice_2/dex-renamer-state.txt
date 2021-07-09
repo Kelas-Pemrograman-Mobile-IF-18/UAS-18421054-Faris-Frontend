@@ -1,4 +1,4 @@
-#Thu Apr 29 13:39:18 ICT 2021
+#Tue Jun 29 22:47:00 ICT 2021
 base.0=D\:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex

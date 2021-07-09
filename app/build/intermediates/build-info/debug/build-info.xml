@@ -2,59 +2,30 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
+    ir-eligibility="STATIC_INITIALIZER_CHANGE"
     plugin-version="3.4.1"
-    timestamp="1619678220265"
+    timestamp="1625196953267"
     token="-7706950978155801332"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="19513" />
+        duration="13551" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1632" />
+        duration="215" />
     <task
         name="verifier"
-        duration="670" />
+        duration="84" />
 
     <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
         location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -62,40 +33,52 @@
 
     <build
         build-mode="FULL"
-        timestamp="1619678220265"
+        timestamp="1625196728703"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="STATIC_INITIALIZER_CHANGE"
+        timestamp="1625196953267"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="D:\SAMPAH FARIS\KULIAH\Semester 6\Pemograman Mobile lagi\Aplikasi Commission Online\app\build\intermediates\instant-run-apk\debug\app-debug.apk"

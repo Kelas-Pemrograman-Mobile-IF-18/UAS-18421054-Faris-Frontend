@@ -2,14 +2,28 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.farisalchaula.myapplication">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".admin.HomeAdminActivity"></activity>
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".pembeli.Commission"></activity>
+        <activity android:name=".pembeli.DetailArtist" />
+        <activity android:name=".admin.Profile" />
+        <activity android:name=".admin.InputDataArtist" />
+        <activity android:name=".admin.EditArtistAndDeleteActivity" />
+        <activity android:name=".admin.ActivityDataArtist" />
+        <activity android:name=".pembeli.HomePembeli" />
+        <activity android:name=".admin.HomeAdminActivity" />
         <activity android:name=".users.RegisterActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".users.LoginActivity">

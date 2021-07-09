@@ -24,6 +24,7 @@
                 android:layout_width="140dp"
                 android:layout_height="150dp"
                 android:clickable="true"
+                android:id="@+id/cardDataArtist"
                 app:cardCornerRadius="10dp"
                 app:cardBackgroundColor="@color/pastelCyan"
                 android:foreground="?android:attr/selectableItemBackground">
@@ -50,7 +51,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Data Commissioner"
+                        android:text="Data Artist"
                         android:layout_marginTop="10dp"/>
 
                 </LinearLayout>
@@ -60,6 +61,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="140dp"
                 android:layout_height="150dp"
+                android:id="@+id/cardInputData"
                 android:clickable="true"
                 app:cardCornerRadius="10dp"
                 app:cardBackgroundColor="@color/pastelBlue"
@@ -108,6 +110,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="140dp"
                 android:layout_height="150dp"
+                android:id="@+id/cardProfile"
                 android:clickable="true"
                 app:cardCornerRadius="10dp"
                 app:cardBackgroundColor="@color/pastelPink"
@@ -146,6 +149,7 @@
                 android:layout_width="140dp"
                 android:layout_height="150dp"
                 android:clickable="true"
+                android:id="@+id/cardExit"
                 app:cardCornerRadius="10dp"
                 app:cardBackgroundColor="@color/pastelViolet"
                 android:layout_marginLeft="10dp"

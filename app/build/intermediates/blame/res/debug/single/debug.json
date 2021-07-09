@@ -24,28 +24,28 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clear_circle_black_24dp.png.flat",
@@ -56,16 +56,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\980b6597be3499b4c008e185e62ea463\\res\\drawable\\bg.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\980b6597be3499b4c008e185e62ea463\\res\\drawable\\bg.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
@@ -132,8 +132,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_name.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_name.xml"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_image_default.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
@@ -160,8 +168,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\color\\mtrl_chip_background_color.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_username.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_artist.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_data_artist.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -174,6 +190,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -204,12 +224,20 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_username.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material_anim.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_btn_check_material_anim.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_username.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -222,6 +250,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dragon.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable\\dragon.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -260,12 +292,20 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_default.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -300,16 +340,28 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_username.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_clear_circle_black_24dp.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\980b6597be3499b4c008e185e62ea463\\res\\drawable-xxxhdpi-v4\\ic_clear_circle_black_24dp.png"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-v21\\abc_dialog_material_background.xml"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_input_data_artist.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_input_data_artist.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-v21\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
@@ -318,6 +370,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -376,6 +432,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mic_black_24dp.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\980b6597be3499b4c008e185e62ea463\\res\\drawable-xhdpi-v4\\ic_mic_black_24dp.png"
     },
@@ -384,24 +444,32 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -416,12 +484,12 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_colored_item_tint.xml.flat",
@@ -436,12 +504,12 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_tooltip.xml"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
@@ -468,12 +536,12 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -656,12 +724,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -716,6 +788,14 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\color\\design_error.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_nama_lengkap.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -734,6 +814,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dropdown.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dropdown.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
@@ -800,6 +884,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_nama_lengkap.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
@@ -860,6 +948,14 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\980b6597be3499b4c008e185e62ea463\\res\\drawable-xxhdpi-v4\\ic_mic_black_24dp.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_image_default.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_commission.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_commission.xml"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
@@ -874,6 +970,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_username.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_username.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -918,6 +1018,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nama_lengkap.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
@@ -1002,6 +1106,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material_anim.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_nama_lengkap.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1092,8 +1200,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\interpolator\\mtrl_linear.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dropdown.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -1122,6 +1238,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_radio_on_mtrl.xml.flat",
@@ -1158,6 +1278,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
@@ -1280,6 +1404,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_nama_lengkap.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -1324,6 +1452,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1334,6 +1466,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1358,6 +1494,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_artist_and_delete.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_edit_artist_and_delete.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1420,6 +1560,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -1442,6 +1586,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gmail1.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\gmail1.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1504,12 +1652,24 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_image_default.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_username.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.png.flat",
@@ -1518,6 +1678,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dropdown.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
@@ -1530,6 +1694,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_image_default.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_image_default.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_black.xml.flat",
@@ -1558,6 +1726,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dropdown.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
@@ -1660,6 +1832,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dropdown.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
     },
@@ -1720,12 +1896,24 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_image_default.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_artist_line.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\artist_line.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_pembeli.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_home_pembeli.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1796,6 +1984,10 @@
         "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_image_default.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_image_default.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -1828,6 +2020,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
@@ -1842,6 +2038,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
@@ -1864,6 +2064,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_artist.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\layout\\activity_detail_artist.xml"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -1874,6 +2078,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_nama_lengkap.xml.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_nama_lengkap.xml"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
@@ -1910,6 +2118,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1956,6 +2168,14 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\462d9580432ca45d6cf90491e69abde9\\res\\color\\mtrl_text_btn_text_color_selector.xml"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nama_lengkap.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_nama_lengkap.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1984,8 +2204,16 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_username.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_username.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -2030,6 +2258,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -2084,6 +2316,10 @@
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dropdown.png"
+    },
+    {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\97e5e5adbfc8a59c8caa9a8301ff869e\\res\\drawable\\notification_bg_low.xml"
     },
@@ -2094,6 +2330,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Faris\\.gradle\\caches\\transforms-2\\files-2.1\\cb32add0510e07add326363cd8ce751f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -2114,6 +2354,10 @@
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dropdown.png.flat",
+        "source": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dropdown.png"
     },
     {
         "merged": "D:\\SAMPAH FARIS\\KULIAH\\Semester 6\\Pemograman Mobile lagi\\Aplikasi Commission Online\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
